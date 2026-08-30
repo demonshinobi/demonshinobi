@@ -1,12 +1,4 @@
-```
- _.__   .____  __  __   ___   _   _  ____   _   _  ___  _   _   ___   ____   ___
-|  _ \ | ____::  \/  | / _ \ | \ | |/ ___| | | | ||_ _|| \ | | / _ \ | __ ) |_ _|
-| | | ||  _|  | :./| || | | ||  \| |\_._ \ | |_| | | | |  \| || | | ||  _ \  | |
-| :.| || |___ | |  : || |_| || |\  | ___) ||  _  | | | | |\  || |_| || |_) | | |
-|____/ |_____::_|  |_| \__./ |_| \_||____/ |_| |_||___||_| \_| \___/ |____/ |___|
-```
-
-`agentic dev` · `founder brain`
+![demonshinobi](banner.svg)
 
 I told claude, "Make me a 100x dev, make no mistakes."
 
@@ -43,15 +35,8 @@ Now I'm here. Hate the word taste nowadays but I think I have it sometimes.
 
 ### // Agentic tooling
 
-I work across these daily, usually orchestrating them against each other rather
-than living in any one.
-
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=for-the-badge&logo=anthropic&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge) ![bb](https://img.shields.io/badge/bb-000000?style=for-the-badge) ![pi](https://img.shields.io/badge/pi-000000?style=for-the-badge) ![hermes](https://img.shields.io/badge/hermes-000000?style=for-the-badge) ![opencode](https://img.shields.io/badge/opencode-000000?style=for-the-badge) ![antigravity](https://img.shields.io/badge/antigravity-000000?style=for-the-badge)
 
 ### // Elsewhere
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-cancel-orlando/)
-
-```
-:: built with agents :: finished by hand ::
-```
