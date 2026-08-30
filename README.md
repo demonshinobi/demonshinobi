@@ -14,19 +14,10 @@ Now I'm here. Hate the word taste nowadays but I think I have it sometimes.
 
 ### // What I'm usually doing
 
-- Wiring multi-agent workflows and the guardrails that keep them honest
-- Building internal tooling that operators actually run every day
-- Designing the interface last, so it fits what the thing really does
+- Wiring multi-agent workflows 
+- Building internal tooling that operators rely on
+- Agentic harness development scoped specifically for health insurance sales pipelines 
 
-### // Selected work
-
-| | |
-|---|---|
-| [**autodialer**](https://github.com/demonshinobi/autodialer) | Call automation with on-device speech recognition; MLX Whisper and SenseVoice running through ONNX |
-| [**btc-collector**](https://github.com/demonshinobi/btc-collector) | Binance market data collection and trading automation, deployed on Render |
-| [**pods_tool**](https://github.com/demonshinobi/pods_tool) | MSP pod staffing and workload optimization with AI integration |
-| [**ObsidianTimer**](https://github.com/demonshinobi/ObsidianTimer) | Session logging timer that exports to Markdown |
-| [**autokey**](https://github.com/demonshinobi/autokey) | Credential autofill for DRMM Shadow Access |
 
 ### // Stack
 
