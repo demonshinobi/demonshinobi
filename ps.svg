@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="869" height="190" viewBox="0 0 869 190" role="img" aria-label="What I'm usually doing: Wiring multi-agent workflows; Building internal tooling that operators rely on; Agentic harness development scoped specifically for health insurance sales pipelines" xml:space="preserve">
+<title>What I'm usually doing: Wiring multi-agent workflows; Building internal tooling that operators rely on; Agentic harness development scoped specifically for health insurance sales pipelines</title>
+<defs>
+  <pattern id="dots" width="6" height="6" patternUnits="userSpaceOnUse">
+    <circle cx="1" cy="1" r="0.6" fill="#9fb4d8" opacity="0.10"/>
+  </pattern>
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="2.2" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <clipPath id="panel"><rect width="869" height="190" rx="14"/></clipPath>
+
+</defs>
+<style>
+  text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; fill: #eef2f8; white-space: pre; }
+  .meta { font-size: 10px; opacity: 0.55; letter-spacing: 3px; }
+  .lab { font-size: 9px; opacity: 0.38; letter-spacing: 2.2px; }
+  .red { fill: #ff3547; }
+  .glow { filter: url(#glow); }
+  .cur { animation: blink 1.1s steps(1, end) infinite; }
+  @keyframes blink { 0%, 55% { opacity: 1; } 56%, 100% { opacity: 0.15; } }
+  .pid { font-size: 11px; opacity: 0.4; letter-spacing: 1px; }
+  .cmd { font-size: 12px; opacity: 0.92; }
+  .sig { font-size: 12px; opacity: 0.55; }
+  .st { font-size: 12px; letter-spacing: 1px; }
+  .s0 { opacity: 0; animation: s0 2.2s step-end infinite; }
+  .s00 { opacity: 1; }
+  @keyframes s0 { 0% { opacity: 1; } 10.0000% { opacity: 0; } 100% { opacity: 0; } }
+  .s00 { animation-delay: -2.2000s; }
+  .s01 { animation-delay: -1.9800s; }
+  .s02 { animation-delay: -1.7600s; }
+  .s03 { animation-delay: -1.5400s; }
+  .s04 { animation-delay: -1.3200s; }
+  .s05 { animation-delay: -1.1000s; }
+  .s06 { animation-delay: -0.8800s; }
+  .s07 { animation-delay: -0.6600s; }
+  .s08 { animation-delay: -0.4400s; }
+  .s09 { animation-delay: -0.2200s; }
+  .s1 { opacity: 0; animation: s1 2.9000000000000004s step-end infinite; }
+  .s10 { opacity: 1; }
+  @keyframes s1 { 0% { opacity: 1; } 10.0000% { opacity: 0; } 100% { opacity: 0; } }
+  .s10 { animation-delay: -2.9000s; }
+  .s11 { animation-delay: -2.6100s; }
+  .s12 { animation-delay: -2.3200s; }
+  .s13 { animation-delay: -2.0300s; }
+  .s14 { animation-delay: -1.7400s; }
+  .s15 { animation-delay: -1.4500s; }
+  .s16 { animation-delay: -1.1600s; }
+  .s17 { animation-delay: -0.8700s; }
+  .s18 { animation-delay: -0.5800s; }
+  .s19 { animation-delay: -0.2900s; }
+  .s2 { opacity: 0; animation: s2 3.6s step-end infinite; }
+  .s20 { opacity: 1; }
+  @keyframes s2 { 0% { opacity: 1; } 10.0000% { opacity: 0; } 100% { opacity: 0; } }
+  .s20 { animation-delay: -3.6000s; }
+  .s21 { animation-delay: -3.2400s; }
+  .s22 { animation-delay: -2.8800s; }
+  .s23 { animation-delay: -2.5200s; }
+  .s24 { animation-delay: -2.1600s; }
+  .s25 { animation-delay: -1.8000s; }
+  .s26 { animation-delay: -1.4400s; }
+  .s27 { animation-delay: -1.0800s; }
+  .s28 { animation-delay: -0.7200s; }
+  .s29 { animation-delay: -0.3600s; }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g clip-path="url(#panel)">
+<rect width="869" height="190" fill="#05070b"/><rect width="869" height="190" fill="url(#dots)"/>
+<text class="meta" x="44" y="38">// PS AUX</text><text class="meta" x="825" y="38" text-anchor="end">3 RUNNING</text><text class="lab" x="44" y="66">PID</text><text class="lab" x="96" y="66">COMMAND</text><text class="lab" x="725" y="66">SIGNAL</text><text class="lab" x="825" y="66" text-anchor="end">STAT</text><text class="pid" x="44" y="88">001</text><text class="cmd" x="96" y="88">Wiring multi-agent workflows</text><text class="sig s0 s00" x="725" y="88" textLength="70" lengthAdjust="spacing">-+##+-+##+</text><text class="sig s0 s01" x="725" y="88" textLength="70" lengthAdjust="spacing">..-+-..-+-</text><text class="sig s0 s02" x="725" y="88" textLength="70" lengthAdjust="spacing">. .--. .--</text><text class="sig s0 s03" x="725" y="88" textLength="70" lengthAdjust="spacing">*--*#*--*#</text><text class="sig s0 s04" x="725" y="88" textLength="70" lengthAdjust="spacing">*-:-**-:-*</text><text class="sig s0 s05" x="725" y="88" textLength="70" lengthAdjust="spacing">-:  :-:  :</text><text class="sig s0 s06" x="725" y="88" textLength="70" lengthAdjust="spacing">**-:-**-:-</text><text class="sig s0 s07" x="725" y="88" textLength="70" lengthAdjust="spacing">*#*--*#*--</text><text class="sig s0 s08" x="725" y="88" textLength="70" lengthAdjust="spacing">.--. .--. </text><text class="sig s0 s09" x="725" y="88" textLength="70" lengthAdjust="spacing">.-+-..-+-.</text><text class="red glow st" x="825" y="88" text-anchor="end">R+</text><text class="pid" x="44" y="118">002</text><text class="cmd" x="96" y="118">Building internal tooling that operators rely on</text><text class="sig s1 s10" x="725" y="118" textLength="70" lengthAdjust="spacing">-#+-+- :=:</text><text class="sig s1 s11" x="725" y="118" textLength="70" lengthAdjust="spacing">-=: -=-+#-</text><text class="sig s1 s12" x="725" y="118" textLength="70" lengthAdjust="spacing">.+=-#*:-- </text><text class="sig s1 s13" x="725" y="118" textLength="70" lengthAdjust="spacing">=#-.-- -*=</text><text class="sig s1 s14" x="725" y="118" textLength="70" lengthAdjust="spacing">.-::**-++.</text><text class="sig s1 s15" x="725" y="118" textLength="70" lengthAdjust="spacing">-#+-+- :=:</text><text class="sig s1 s16" x="725" y="118" textLength="70" lengthAdjust="spacing">-=: -=-+#-</text><text class="sig s1 s17" x="725" y="118" textLength="70" lengthAdjust="spacing">.+=-#*:-- </text><text class="sig s1 s18" x="725" y="118" textLength="70" lengthAdjust="spacing">=#-.-- -*=</text><text class="sig s1 s19" x="725" y="118" textLength="70" lengthAdjust="spacing">.-::**-++.</text><text class="red glow st" x="825" y="118" text-anchor="end">R+</text><text class="pid" x="44" y="148">003</text><text class="cmd" x="96" y="148">Agentic harness development scoped specifically for health insurance sales pipelines</text><text class="sig s2 s20" x="725" y="148" textLength="70" lengthAdjust="spacing">-+-..-+-..</text><text class="sig s2 s21" x="725" y="148" textLength="70" lengthAdjust="spacing">+##+-+##+-</text><text class="sig s2 s22" x="725" y="148" textLength="70" lengthAdjust="spacing">:=+-.:=+-.</text><text class="sig s2 s23" x="725" y="148" textLength="70" lengthAdjust="spacing"> .--. .--.</text><text class="sig s2 s24" x="725" y="148" textLength="70" lengthAdjust="spacing">--*#+--*#+</text><text class="sig s2 s25" x="725" y="148" textLength="70" lengthAdjust="spacing">-:=**-:=**</text><text class="sig s2 s26" x="725" y="148" textLength="70" lengthAdjust="spacing">:  :-:  :-</text><text class="sig s2 s27" x="725" y="148" textLength="70" lengthAdjust="spacing">+-:-*+-:-*</text><text class="sig s2 s28" x="725" y="148" textLength="70" lengthAdjust="spacing">#*-=*#*-=*</text><text class="sig s2 s29" x="725" y="148" textLength="70" lengthAdjust="spacing">=-. :=-. :</text><text class="red glow st" x="825" y="148" text-anchor="end">R+</text></g></svg>

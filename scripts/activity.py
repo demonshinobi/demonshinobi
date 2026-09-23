@@ -36,6 +36,7 @@ PITCH_Y = 14
 RAMP = ["·", ":", "+", "#", "@"]
 INK = [0.16, 0.40, 0.62, 0.84, 1.0]
 RED = "#ff3547"
+PULSE = 9
 MONO = "ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace"
 
 
@@ -96,11 +97,6 @@ def render(c):
   <pattern id="dots" width="6" height="6" patternUnits="userSpaceOnUse">
     <circle cx="1" cy="1" r="0.6" fill="#9fb4d8" opacity="0.10"/>
   </pattern>
-  <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#ff3547" stop-opacity="0"/>
-    <stop offset="0.5" stop-color="#ff3547" stop-opacity="0.30"/>
-    <stop offset="1" stop-color="#ff3547" stop-opacity="0"/>
-  </linearGradient>
   <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
     <feGaussianBlur stdDeviation="2.2" result="b"/>
     <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
@@ -116,12 +112,14 @@ def render(c):
   .leg {{ font-size: 9px; fill: #eef2f8; letter-spacing: 2.2px; }}
   .big {{ font-size: 22px; fill: #eef2f8; letter-spacing: 1px; }}
   .red {{ fill: {RED}; }}
-  .scan {{ animation: sw 9s ease-in-out infinite; }}
+  .pb {{ animation: pb {PULSE}s linear infinite; }}
+  .pw {{ opacity: 0; animation: pw {PULSE}s linear infinite; }}
   .cur {{ animation: bl 1.1s steps(1,end) infinite; }}
-  @keyframes sw {{ 0% {{ transform: translateX(-12%); }} 60%, 100% {{ transform: translateX(112%); }} }}
+  @keyframes pb {{ 0%, 7%, 100% {{ opacity: 1; }} 3% {{ opacity: 0; }} }}
+  @keyframes pw {{ 0%, 7%, 100% {{ opacity: 0; }} 3% {{ opacity: 1; }} }}
   @keyframes bl {{ 0%, 55% {{ opacity: 1; }} 56%, 100% {{ opacity: 0.15; }} }}
   @keyframes fl {{ 0%, 86%, 100% {{ opacity: 1; }} 89% {{ opacity: 0.2; }} 92% {{ opacity: 1; }} 95% {{ opacity: 0.45; }} }}
-  @media (prefers-reduced-motion: reduce) {{ .scan, .cur, .h {{ animation: none; }} }}
+  @media (prefers-reduced-motion: reduce) {{ .pb, .pw, .cur, .h {{ animation: none; }} }}
 </style>""")
     a('<g clip-path="url(#panel)">')
     a(f'<rect width="{W}" height="{H}" fill="#05070b"/><rect width="{W}" height="{H}" fill="url(#dots)"/>')
@@ -150,10 +148,12 @@ def render(c):
                 delay = (int(d["date"].replace("-", "")) * 7919) % 50 / 10
                 a(f'<text class="g h" x="{x:.1f}" y="{y}" style="animation-delay:{delay}s">{glyph}</text>')
             else:
-                a(f'<text class="g" x="{x:.1f}" y="{y}" opacity="{INK[d["lvl"]]}">{glyph}</text>')
+                # the pulse: a wave that bumps each glyph one step up the ramp as it passes
+                up = min(4, d["lvl"] + 1)
+                delay = f'style="animation-delay:{wi * 0.05 + d["weekday"] * 0.03:.2f}s"'
+                a(f'<text class="g pb" x="{x:.1f}" y="{y}" fill-opacity="{INK[d["lvl"]]}" {delay}>{glyph}</text>')
+                a(f'<text class="g pw" x="{x:.1f}" y="{y}" fill-opacity="{INK[up]}" {delay}>{RAMP[up]}</text>')
     a("</g>")
-
-    a(f'<rect class="scan" x="{PAD_X - 60}" y="{GRID_Y - 12}" width="60" height="{7 * PITCH_Y + 4}" fill="url(#scan)"/>')
 
     fy = H - 34
     stats = [

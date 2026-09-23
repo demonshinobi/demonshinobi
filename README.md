@@ -1,44 +1,11 @@
-![demonshinobi](banner.svg)
+![demonshinobi — I told claude, "Make me a 100x dev, make no mistakes." Now I'm here. Hate the word taste nowadays but I think I have it sometimes.](hero.svg)
 
-I told claude, "Make me a 100x dev, make no mistakes."
+![Contribution activity over the last year, rendered as an ASCII density field](activity.svg)
 
-Now I'm here. Hate the word taste nowadays but I think I have it sometimes.
+![What I'm usually doing: wiring multi-agent workflows; building internal tooling that operators rely on; agentic harness development scoped specifically for health insurance sales pipelines](ps.svg)
 
-![activity](activity.svg)
+![Stack — languages: TypeScript, JavaScript, Python, Rust. Libraries: Effect. Frontend: React, Next.js, Tailwind, Foldkit. Mobile: Flutter. Cloud: GCP, Render, Docker. Data: Postgres, Neon, MySQL, SQLite, Firebase.](stack.svg)
 
-### // What I'm usually doing
+![Agentic tooling: Claude Code, Codex, bb, pi, hermes, opencode, antigravity](agents.svg)
 
-- Wiring multi-agent workflows 
-- Building internal tooling that operators rely on
-- Agentic harness development scoped specifically for health insurance sales pipelines 
-
-
-### // Stack
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)
-
-**Cloud / Deploy**
-
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
-
-**Databases**
-
-![Postgres](https://img.shields.io/badge/Postgres-000000?style=for-the-badge&logo=postgresql&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-000000?style=for-the-badge&logo=neon&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white)
-
-### // Agentic tooling
-
-![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=for-the-badge&logo=anthropic&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge) ![bb](https://img.shields.io/badge/bb-000000?style=for-the-badge) ![pi](https://img.shields.io/badge/pi-000000?style=for-the-badge) ![hermes](https://img.shields.io/badge/hermes-000000?style=for-the-badge) ![opencode](https://img.shields.io/badge/opencode-000000?style=for-the-badge) ![antigravity](https://img.shields.io/badge/antigravity-000000?style=for-the-badge)
-
-### // Elsewhere
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-cancel-orlando/)
+[![LinkedIn — in/joshua-cancel-orlando](footer.svg)](https://www.linkedin.com/in/joshua-cancel-orlando/)
