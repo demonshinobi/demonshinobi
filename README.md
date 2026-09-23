@@ -4,6 +4,8 @@ I told claude, "Make me a 100x dev, make no mistakes."
 
 Now I'm here. Hate the word taste nowadays but I think I have it sometimes.
 
+![activity](activity.svg)
+
 ### // What I'm usually doing
 
 - Wiring multi-agent workflows 
