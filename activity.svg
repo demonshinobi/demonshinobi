@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="869" height="236" viewBox="0 0 869 236" role="img" aria-label="6,922 contributions in the last year, 99.8% private">
-<title>6,922 contributions in the last year</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="869" height="236" viewBox="0 0 869 236" role="img" aria-label="7,579 contributions in the last year, 99.9% private">
+<title>7,579 contributions in the last year</title>
 <defs>
   <pattern id="dots" width="6" height="6" patternUnits="userSpaceOnUse">
     <circle cx="1" cy="1" r="0.6" fill="#9fb4d8" opacity="0.10"/>
@@ -31,7 +31,7 @@
 <g clip-path="url(#panel)">
 <rect width="869" height="236" fill="#05070b"/><rect width="869" height="236" fill="url(#dots)"/>
 <text class="meta" x="44" y="38">// ACTIVITY</text>
-<text class="meta" x="825" y="38" text-anchor="end">LAST 365D · SYNC 2026-10-25</text>
+<text class="meta" x="825" y="38" text-anchor="end">LAST 365D · SYNC 2026-10-26</text>
 <text class="lab" x="58.7" y="66">NOV</text>
 <text class="lab" x="132.4" y="66">DEC</text>
 <text class="lab" x="191.4" y="66">JAN</text>
@@ -553,14 +553,14 @@
 <text class="g pw" x="581.9" y="154" fill-opacity="1.0" style="animation-delay:1.95s">@</text>
 <text class="g pb" x="581.9" y="168" fill-opacity="0.84" style="animation-delay:1.98s">#</text>
 <text class="g pw" x="581.9" y="168" fill-opacity="1.0" style="animation-delay:1.98s">@</text>
-<text class="g pb" x="596.6" y="84" fill-opacity="0.84" style="animation-delay:1.85s">#</text>
+<text class="g pb" x="596.6" y="84" fill-opacity="1.0" style="animation-delay:1.85s">@</text>
 <text class="g pw" x="596.6" y="84" fill-opacity="1.0" style="animation-delay:1.85s">@</text>
 <text class="g pb" x="596.6" y="98" fill-opacity="0.84" style="animation-delay:1.88s">#</text>
 <text class="g pw" x="596.6" y="98" fill-opacity="1.0" style="animation-delay:1.88s">@</text>
-<text class="g pb" x="596.6" y="112" fill-opacity="0.62" style="animation-delay:1.91s">+</text>
-<text class="g pw" x="596.6" y="112" fill-opacity="0.84" style="animation-delay:1.91s">#</text>
-<text class="g pb" x="596.6" y="126" fill-opacity="0.4" style="animation-delay:1.94s">:</text>
-<text class="g pw" x="596.6" y="126" fill-opacity="0.62" style="animation-delay:1.94s">+</text>
+<text class="g pb" x="596.6" y="112" fill-opacity="0.84" style="animation-delay:1.91s">#</text>
+<text class="g pw" x="596.6" y="112" fill-opacity="1.0" style="animation-delay:1.91s">@</text>
+<text class="g pb" x="596.6" y="126" fill-opacity="0.62" style="animation-delay:1.94s">+</text>
+<text class="g pw" x="596.6" y="126" fill-opacity="0.84" style="animation-delay:1.94s">#</text>
 <text class="g pb" x="596.6" y="140" fill-opacity="0.4" style="animation-delay:1.97s">:</text>
 <text class="g pw" x="596.6" y="140" fill-opacity="0.62" style="animation-delay:1.97s">+</text>
 <text class="g pb" x="596.6" y="154" fill-opacity="0.62" style="animation-delay:2.00s">+</text>
@@ -589,7 +589,7 @@
 <text class="g pw" x="626.1" y="112" fill-opacity="1.0" style="animation-delay:2.01s">@</text>
 <text class="g pb" x="626.1" y="126" fill-opacity="0.84" style="animation-delay:2.04s">#</text>
 <text class="g pw" x="626.1" y="126" fill-opacity="1.0" style="animation-delay:2.04s">@</text>
-<text class="g pb" x="626.1" y="140" fill-opacity="0.84" style="animation-delay:2.07s">#</text>
+<text class="g pb" x="626.1" y="140" fill-opacity="1.0" style="animation-delay:2.07s">@</text>
 <text class="g pw" x="626.1" y="140" fill-opacity="1.0" style="animation-delay:2.07s">@</text>
 <text class="g pb" x="626.1" y="154" fill-opacity="0.62" style="animation-delay:2.10s">+</text>
 <text class="g pw" x="626.1" y="154" fill-opacity="0.84" style="animation-delay:2.10s">#</text>
@@ -621,22 +621,22 @@
 <text class="g pw" x="655.5" y="140" fill-opacity="0.62" style="animation-delay:2.17s">+</text>
 <text class="g pb" x="655.5" y="154" fill-opacity="0.4" style="animation-delay:2.20s">:</text>
 <text class="g pw" x="655.5" y="154" fill-opacity="0.62" style="animation-delay:2.20s">+</text>
-<text class="g pb" x="655.5" y="168" fill-opacity="0.4" style="animation-delay:2.23s">:</text>
-<text class="g pw" x="655.5" y="168" fill-opacity="0.62" style="animation-delay:2.23s">+</text>
-<text class="g pb" x="670.3" y="84" fill-opacity="0.4" style="animation-delay:2.10s">:</text>
-<text class="g pw" x="670.3" y="84" fill-opacity="0.62" style="animation-delay:2.10s">+</text>
+<text class="g pb" x="655.5" y="168" fill-opacity="0.84" style="animation-delay:2.23s">#</text>
+<text class="g pw" x="655.5" y="168" fill-opacity="1.0" style="animation-delay:2.23s">@</text>
+<text class="g pb" x="670.3" y="84" fill-opacity="0.84" style="animation-delay:2.10s">#</text>
+<text class="g pw" x="670.3" y="84" fill-opacity="1.0" style="animation-delay:2.10s">@</text>
 <text class="g pb" x="670.3" y="98" fill-opacity="0.4" style="animation-delay:2.13s">:</text>
 <text class="g pw" x="670.3" y="98" fill-opacity="0.62" style="animation-delay:2.13s">+</text>
 <text class="g pb" x="670.3" y="112" fill-opacity="0.4" style="animation-delay:2.16s">:</text>
 <text class="g pw" x="670.3" y="112" fill-opacity="0.62" style="animation-delay:2.16s">+</text>
-<text class="g pb" x="670.3" y="126" fill-opacity="0.4" style="animation-delay:2.19s">:</text>
-<text class="g pw" x="670.3" y="126" fill-opacity="0.62" style="animation-delay:2.19s">+</text>
-<text class="g pb" x="670.3" y="140" fill-opacity="0.4" style="animation-delay:2.22s">:</text>
-<text class="g pw" x="670.3" y="140" fill-opacity="0.62" style="animation-delay:2.22s">+</text>
-<text class="g pb" x="670.3" y="154" fill-opacity="0.4" style="animation-delay:2.25s">:</text>
-<text class="g pw" x="670.3" y="154" fill-opacity="0.62" style="animation-delay:2.25s">+</text>
-<text class="g pb" x="670.3" y="168" fill-opacity="0.4" style="animation-delay:2.28s">:</text>
-<text class="g pw" x="670.3" y="168" fill-opacity="0.62" style="animation-delay:2.28s">+</text>
+<text class="g pb" x="670.3" y="126" fill-opacity="0.62" style="animation-delay:2.19s">+</text>
+<text class="g pw" x="670.3" y="126" fill-opacity="0.84" style="animation-delay:2.19s">#</text>
+<text class="g pb" x="670.3" y="140" fill-opacity="0.62" style="animation-delay:2.22s">+</text>
+<text class="g pw" x="670.3" y="140" fill-opacity="0.84" style="animation-delay:2.22s">#</text>
+<text class="g pb" x="670.3" y="154" fill-opacity="0.84" style="animation-delay:2.25s">#</text>
+<text class="g pw" x="670.3" y="154" fill-opacity="1.0" style="animation-delay:2.25s">@</text>
+<text class="g pb" x="670.3" y="168" fill-opacity="0.84" style="animation-delay:2.28s">#</text>
+<text class="g pw" x="670.3" y="168" fill-opacity="1.0" style="animation-delay:2.28s">@</text>
 <text class="g pb" x="685.0" y="84" fill-opacity="0.4" style="animation-delay:2.15s">:</text>
 <text class="g pw" x="685.0" y="84" fill-opacity="0.62" style="animation-delay:2.15s">+</text>
 <text class="g pb" x="685.0" y="98" fill-opacity="0.4" style="animation-delay:2.18s">:</text>
@@ -645,8 +645,8 @@
 <text class="g pw" x="685.0" y="112" fill-opacity="0.62" style="animation-delay:2.21s">+</text>
 <text class="g pb" x="685.0" y="126" fill-opacity="0.4" style="animation-delay:2.24s">:</text>
 <text class="g pw" x="685.0" y="126" fill-opacity="0.62" style="animation-delay:2.24s">+</text>
-<text class="g pb" x="685.0" y="140" fill-opacity="0.4" style="animation-delay:2.27s">:</text>
-<text class="g pw" x="685.0" y="140" fill-opacity="0.62" style="animation-delay:2.27s">+</text>
+<text class="g pb" x="685.0" y="140" fill-opacity="0.62" style="animation-delay:2.27s">+</text>
+<text class="g pw" x="685.0" y="140" fill-opacity="0.84" style="animation-delay:2.27s">#</text>
 <text class="g pb" x="685.0" y="154" fill-opacity="0.4" style="animation-delay:2.30s">:</text>
 <text class="g pw" x="685.0" y="154" fill-opacity="0.62" style="animation-delay:2.30s">+</text>
 <text class="g pb" x="685.0" y="168" fill-opacity="0.4" style="animation-delay:2.33s">:</text>
@@ -667,8 +667,8 @@
 <text class="g pw" x="699.7" y="168" fill-opacity="0.62" style="animation-delay:2.38s">+</text>
 <text class="g pb" x="714.5" y="84" fill-opacity="0.4" style="animation-delay:2.25s">:</text>
 <text class="g pw" x="714.5" y="84" fill-opacity="0.62" style="animation-delay:2.25s">+</text>
-<text class="g pb" x="714.5" y="98" fill-opacity="0.4" style="animation-delay:2.28s">:</text>
-<text class="g pw" x="714.5" y="98" fill-opacity="0.62" style="animation-delay:2.28s">+</text>
+<text class="g pb" x="714.5" y="98" fill-opacity="0.62" style="animation-delay:2.28s">+</text>
+<text class="g pw" x="714.5" y="98" fill-opacity="0.84" style="animation-delay:2.28s">#</text>
 <text class="g pb" x="714.5" y="112" fill-opacity="0.4" style="animation-delay:2.31s">:</text>
 <text class="g pw" x="714.5" y="112" fill-opacity="0.62" style="animation-delay:2.31s">+</text>
 <text class="g pb" x="714.5" y="126" fill-opacity="0.4" style="animation-delay:2.34s">:</text>
@@ -753,21 +753,23 @@
 <text class="g pw" x="802.9" y="84" fill-opacity="0.62" style="animation-delay:2.55s">+</text>
 <text class="g pb" x="802.9" y="98" fill-opacity="0.4" style="animation-delay:2.58s">:</text>
 <text class="g pw" x="802.9" y="98" fill-opacity="0.62" style="animation-delay:2.58s">+</text>
-<text class="g pb" x="802.9" y="112" fill-opacity="0.4" style="animation-delay:2.61s">:</text>
-<text class="g pw" x="802.9" y="112" fill-opacity="0.62" style="animation-delay:2.61s">+</text>
-<text class="g pb" x="802.9" y="126" fill-opacity="0.4" style="animation-delay:2.64s">:</text>
-<text class="g pw" x="802.9" y="126" fill-opacity="0.62" style="animation-delay:2.64s">+</text>
-<text class="g pb" x="802.9" y="140" fill-opacity="0.4" style="animation-delay:2.67s">:</text>
-<text class="g pw" x="802.9" y="140" fill-opacity="0.62" style="animation-delay:2.67s">+</text>
-<text class="g pb" x="802.9" y="154" fill-opacity="0.4" style="animation-delay:2.70s">:</text>
-<text class="g pw" x="802.9" y="154" fill-opacity="0.62" style="animation-delay:2.70s">+</text>
-<text class="g pb" x="802.9" y="168" fill-opacity="0.4" style="animation-delay:2.73s">:</text>
-<text class="g pw" x="802.9" y="168" fill-opacity="0.62" style="animation-delay:2.73s">+</text>
-<rect class="cur" x="813.6" y="75" width="8" height="11" fill="#ff3547"/>
+<text class="g pb" x="802.9" y="112" fill-opacity="1.0" style="animation-delay:2.61s">@</text>
+<text class="g pw" x="802.9" y="112" fill-opacity="1.0" style="animation-delay:2.61s">@</text>
+<text class="g pb" x="802.9" y="126" fill-opacity="0.62" style="animation-delay:2.64s">+</text>
+<text class="g pw" x="802.9" y="126" fill-opacity="0.84" style="animation-delay:2.64s">#</text>
+<text class="g pb" x="802.9" y="140" fill-opacity="0.84" style="animation-delay:2.67s">#</text>
+<text class="g pw" x="802.9" y="140" fill-opacity="1.0" style="animation-delay:2.67s">@</text>
+<text class="g pb" x="802.9" y="154" fill-opacity="0.62" style="animation-delay:2.70s">+</text>
+<text class="g pw" x="802.9" y="154" fill-opacity="0.84" style="animation-delay:2.70s">#</text>
+<text class="g pb" x="802.9" y="168" fill-opacity="0.84" style="animation-delay:2.73s">#</text>
+<text class="g pw" x="802.9" y="168" fill-opacity="1.0" style="animation-delay:2.73s">@</text>
+<text class="g pb" x="817.6" y="84" fill-opacity="0.62" style="animation-delay:2.60s">+</text>
+<text class="g pw" x="817.6" y="84" fill-opacity="0.84" style="animation-delay:2.60s">#</text>
+<rect class="cur" x="813.6" y="89" width="8" height="11" fill="#ff3547"/>
 </g>
-<text class="big" x="44" y="202">6,922</text>
+<text class="big" x="44" y="202">7,579</text>
 <text class="lab" x="44" y="218">CONTRIBUTIONS</text>
-<text class="big red" x="194" y="202">99.8%</text>
+<text class="big red" x="194" y="202">99.9%</text>
 <text class="lab" x="194" y="218">PRIVATE</text>
 <text class="big" x="344" y="202">478</text>
 <text class="lab" x="344" y="218">PEAK DAY</text>
